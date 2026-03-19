@@ -1,67 +1,83 @@
-# 👋 Привет! Я Фирузджон Помпиду
+# Firuzjon Qurbonov
 
-**Product Analyst**, который превращает данные в измеримые бизнес-инсайты и понятные управленческие решения.  
-Специализируюсь на анализе продуктовых и транзакционных данных, визуализации метрик и создании интерактивных дашбордов для бизнеса.
+**Product Analyst**
 
----
+I analyze product and behavioral data to identify growth drivers, conversion bottlenecks, and actionable business opportunities.
 
-## 🚀 Чем я занимаюсь
 
-- Анализ продуктовых и транзакционных данных
-- Очистка и подготовка данных (data cleaning, preprocessing)
-- Исследовательский анализ данных (EDA)
-- Расчёт и интерпретация продуктовых и бизнес-метрик
-- Создание интерактивных дашбордов (**Streamlit, Plotly**)
-- Формирование выводов и практических рекомендаций для бизнеса
+## Focus
 
----
+- Product analytics (funnels, retention, segmentation)
+- Conversion optimization
+- User behavior analysis
+- Business metrics and performance tracking
+- Analytical dashboards for decision-making
 
-## 🔧 Технологии и инструменты
 
-### Языки и библиотеки
-- **Python**
-- **Pandas**, NumPy
-- **Plotly**
-- **Streamlit**
-- Jupyter / Google Colab
-- Git & GitHub
+## Tech Stack
 
----
+- SQL (PostgreSQL)
+- Python (Pandas, NumPy)
+- Power BI
+- Plotly / Streamlit
+- Git
 
-## 📊 Избранные проекты
 
-### 📊 [Online Retail Dashboard](https://github.com/pompeedu/online-retail-dashboard)
-**Интерактивный продуктовый дашборд онлайн-ритейла**
-- Выручка, активность клиентов, география продаж
-- Анализ возвратов и проблемных товаров
-- Фильтры, KPI-карточки, экспорт данных  
-- **Live demo:** https://pompeedu-online-retail-dashboard.streamlit.app
+## Selected Projects
 
----
+### 🧠 [E-commerce Funnel & Retention Analysis](https://github.com/pompeedu/ecommerce-funnel-retention-analysis)
+**Product analytics case (700M+ events)**
 
-### 📦 [Amazon Products Dashboard](https://github.com/pompeedu/amazon-products-dashboard)
-**Продуктовая аналитика маркетплейса Amazon**
-- Анализ цен, рейтингов, скидок и отзывов
-- Сравнение категорий и товаров
-- Корреляции, распределения, price vs rating
-- **Live demo:** https://pompeedu-amazon-items-dashboard.streamlit.app
+- Identified mismatch between DAU growth and revenue
+- Segmented users by lifecycle (0d, 1–7d, 8–30d, 31+d)
+- Discovered major conversion gap in new users (0d)
+- Analyzed funnel drop-off (view → cart → purchase)
+- Built Power BI dashboard focused on conversion drivers
+
+**Stack:** SQL · Power BI
 
 ---
 
-## 🎯 Открыт к сотрудничеству
+### 📈 [Online Retail Dashboard](https://github.com/pompeedu/online-retail-dashboard)
 
-- Фриланс-проекты в продуктовой и бизнес-аналитике
-- Разработка аналитических дашбордов под задачи бизнеса
-- Удалённая работа (Product Analyst | Data Analyst)
+- Interactive dashboard for sales and customer analytics
+- KPI tracking, filters, and export functionality
 
----
+**Live demo:** https://pompeedu-online-retail-dashboard.streamlit.app
 
-## 📬 Контакты
-- 💬 Telegram: [@pompeedu](https://t.me/pompeedu)  
-- ✉️ Email: [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
+**Stack:** Streamlit · Plotly
 
 ---
 
-## 🌍 Language
-- 🇬🇧 [English](README_GB.md)
-- 🇷🇺 [Русский](README.md)
+### 📊 [Amazon Products Dashboard](https://github.com/pompeedu/amazon-products-dashboard)
+
+- Revenue trends and performance tracking
+- Product and customer contribution analysis
+- KPI-driven dashboard for business monitoring
+
+**Live demo:** https://pompeedu-amazon-items-dashboard.streamlit.app/
+
+**Stack:** Streamlit · Plotly
+
+---
+
+### 🛒 [Online Retail Analysis](https://github.com/pompeedu/online-retail-analysis)
+
+- Customer behavior and purchase patterns
+- Product performance and revenue contribution
+- Returns and profitability analysis
+
+**Stack:** Python · EDA
+
+
+## Availability
+
+Open to:
+- Product Analyst / Data Analyst roles
+- Freelance analytics projects
+
+
+## Contact
+
+- Telegram: https://t.me/pompeedu  
+- Email: firuzjonkurbonov735700@gmail.com
