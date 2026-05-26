@@ -1,83 +1,89 @@
-# Firuzjon Qurbonov
+# Фирузджон Курбанов
 
-**Product Analyst**
+**Data / Product Analyst**
 
-I analyze product and behavioral data to identify growth drivers, conversion bottlenecks, and actionable business opportunities.
-
-
-## Focus
-
-- Product analytics (funnels, retention, segmentation)
-- Conversion optimization
-- User behavior analysis
-- Business metrics and performance tracking
-- Analytical dashboards for decision-making
+Анализирую продуктовые и поведенческие данные, нахожу точки роста, узкие места в конверсии и превращаю данные в понятные бизнес-решения.
 
 
-## Tech Stack
+## Основные направления
+
+- Продуктовая аналитика (воронки, retention, сегментация)
+- Анализ поведения пользователей
+- Оптимизация конверсии
+- Анализ бизнес-метрик и эффективности
+- Создание аналитических дашбордов
+- Поиск закономерностей и гипотез на основе данных
+
+
+## Технологии и инструменты
 
 - SQL (PostgreSQL)
 - Python (Pandas, NumPy)
 - Power BI
 - Plotly / Streamlit
+- Excel / Power Query
 - Git
 
 
-## Selected Projects
+## Избранные проекты
 
-### 🧠 [E-commerce Funnel & Retention Analysis](https://github.com/pompeedu/ecommerce-funnel-retention-analysis)
-**Product analytics case (700M+ events)**
+### 🧠 [Анализ воронки и retention в e-commerce](https://github.com/pompeedu/ecommerce-funnel-retention-analysis)
 
-- Identified mismatch between DAU growth and revenue
-- Segmented users by lifecycle (0d, 1–7d, 8–30d, 31+d)
-- Discovered major conversion gap in new users (0d)
-- Analyzed funnel drop-off (view → cart → purchase)
-- Built Power BI dashboard focused on conversion drivers
+**Кейс продуктовой аналитики (700M+ событий)**
 
-**Stack:** SQL · Power BI
+- Выявил несоответствие между ростом DAU и выручкой
+- Сегментировал пользователей по жизненному циклу (0d, 1–7d, 8–30d, 31+d)
+- Обнаружил основной провал конверсии у новых пользователей
+- Проанализировал воронку (просмотр → корзина → покупка)
+- Разработал Power BI дашборд с акцентом на драйверы конверсии
 
----
-
-### 📈 [Online Retail Dashboard](https://github.com/pompeedu/online-retail-dashboard)
-
-- Interactive dashboard for sales and customer analytics
-- KPI tracking, filters, and export functionality
-
-**Live demo:** https://pompeedu-online-retail-dashboard.streamlit.app
-
-**Stack:** Streamlit · Plotly
+**Стек:** SQL · Power BI
 
 ---
 
-### 📊 [Amazon Products Dashboard](https://github.com/pompeedu/amazon-products-dashboard)
+### 📈 [Дашборд онлайн-ритейла](https://github.com/pompeedu/online-retail-dashboard)
 
-- Revenue trends and performance tracking
-- Product and customer contribution analysis
-- KPI-driven dashboard for business monitoring
+- Интерактивный дашборд для анализа продаж и клиентов
+- KPI, фильтрация и экспорт данных
+- Визуализация ключевых бизнес-показателей
 
-**Live demo:** https://pompeedu-amazon-items-dashboard.streamlit.app/
+**Демо:** https://pompeedu-online-retail-dashboard.streamlit.app
 
-**Stack:** Streamlit · Plotly
+**Стек:** Streamlit · Plotly
 
 ---
 
-### 🛒 [Online Retail Analysis](https://github.com/pompeedu/online-retail-analysis)
+### 📊 [Дашборд аналитики товаров Amazon](https://github.com/pompeedu/amazon-products-dashboard)
 
-- Customer behavior and purchase patterns
-- Product performance and revenue contribution
-- Returns and profitability analysis
+- Анализ динамики выручки и эффективности товаров
+- Анализ вклада клиентов и продуктов
+- KPI-дашборд для мониторинга бизнеса
 
-**Stack:** Python · EDA
+**Демо:** https://pompeedu-amazon-items-dashboard.streamlit.app
+
+**Стек:** Streamlit · Plotly
+
+---
+
+### 🛒 [Анализ онлайн-ритейла](https://github.com/pompeedu/online-retail-analysis)
+
+- Анализ поведения покупателей
+- Анализ товаров и вклада в выручку
+- Анализ возвратов и прибыльности
+
+**Стек:** Python · EDA
 
 
-## Availability
+## Открыт к предложениям
 
-Open to:
-- Product Analyst / Data Analyst roles
-- Freelance analytics projects
+Интересуют:
+- позиции Data Analyst / Product Analyst
+- аналитические и BI-проекты
+- продуктовая аналитика
+- проекты, связанные с данными и оптимизацией процессов
 
 
-## Contact
+## Контакты
 
-- Telegram: https://t.me/pompeedu  
+- Telegram: https://t.me/pompeedu
 - Email: firuzjonkurbonov735700@gmail.com
