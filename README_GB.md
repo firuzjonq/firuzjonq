@@ -1,86 +1,83 @@
-# 👋 Hi, I'm Firuzjon — but you can call me [Pompeedu](https://t.me/pompeedu)
+# Firuzjon Qurbonov
 
-**Product Analyst** focused on turning raw data into actionable business insights and interactive dashboards.  
-I work with product and transactional data, helping businesses understand performance, user behavior, and growth opportunities through clear analytics and visualization.
+**Product Analyst**
+
+I analyze product and behavioral data to identify growth drivers, conversion bottlenecks, and actionable business opportunities.
+
+
+## Focus
+
+- Product analytics (funnels, retention, segmentation)
+- Conversion optimization
+- User behavior analysis
+- Business metrics and performance tracking
+- Analytical dashboards for decision-making
+
+
+## Tech Stack
+
+- SQL (PostgreSQL)
+- Python (Pandas, NumPy)
+- Power BI
+- Plotly / Streamlit
+- Git
+
+
+## Selected Projects
+
+### 🧠 [E-commerce Funnel & Retention Analysis](https://github.com/pompeedu/ecommerce-funnel-retention-analysis)
+**Product analytics case (700M+ events)**
+
+- Identified mismatch between DAU growth and revenue
+- Segmented users by lifecycle (0d, 1–7d, 8–30d, 31+d)
+- Discovered major conversion gap in new users (0d)
+- Analyzed funnel drop-off (view → cart → purchase)
+- Built Power BI dashboard focused on conversion drivers
+
+**Stack:** SQL · Power BI
 
 ---
 
-## 🚀 What I Do
+### 📈 [Online Retail Dashboard](https://github.com/pompeedu/online-retail-dashboard)
 
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Product and business metrics analysis
-- Interactive dashboards with **Streamlit** and **Plotly**
-- Insight generation and analytical reporting
-- Working with real-world datasets
+- Interactive dashboard for sales and customer analytics
+- KPI tracking, filters, and export functionality
 
----
+**Live demo:** https://pompeedu-online-retail-dashboard.streamlit.app
 
-## 🔧 Tech Stack
-
-### Languages & Tools
-- **Python**
-- **Pandas**, NumPy
-- **Plotly**
-- **Streamlit**
-- Jupyter / Google Colab
-- Git & GitHub
+**Stack:** Streamlit · Plotly
 
 ---
 
-## 📊 Featured Projects
+### 📊 [Amazon Products Dashboard](https://github.com/pompeedu/amazon-products-dashboard)
 
-### 📈 [Sales Dashboard Project](https://github.com/pompeedu/sales-dashboard-project)
-**Analytical sales dashboard**
-- Revenue dynamics and trends
-- Top products and key customers
-- KPI-driven insights for decision-making  
-*Streamlit · Plotly*
+- Revenue trends and performance tracking
+- Product and customer contribution analysis
+- KPI-driven dashboard for business monitoring
+
+**Live demo:** https://pompeedu-amazon-items-dashboard.streamlit.app/
+
+**Stack:** Streamlit · Plotly
 
 ---
 
 ### 🛒 [Online Retail Analysis](https://github.com/pompeedu/online-retail-analysis)
-**In-depth transactional data analysis**
-- Customer behavior and purchase frequency
+
+- Customer behavior and purchase patterns
 - Product performance and revenue contribution
-- Returns and profitability analysis  
-*EDA · Business metrics*
+- Returns and profitability analysis
 
----
+**Stack:** Python · EDA
 
-### 📊 [Online Retail Dashboard](https://github.com/pompeedu/online-retail-dashboard)
-**Interactive product analytics dashboard**
-- Revenue, customer activity, and sales geography
-- Returns analysis and problematic products
-- Filters, KPI cards, CSV export  
-**Live demo:** https://pompeedu-online-retail-dashboard.streamlit.app
 
----
+## Availability
 
-### 📦 [Amazon Products Dashboard](https://github.com/pompeedu/amazon-products-dashboard)
-**Marketplace product analytics (Amazon)**
-- Price, rating, discount, and review analysis
-- Category and product comparison
-- Correlation analysis (price vs rating, demand signals)
-**Live demo:** https://pompeedu-amazon-items-dashboard.streamlit.app
+Open to:
+- Product Analyst / Data Analyst roles
+- Freelance analytics projects
 
----
 
-## 🎯 Open to Opportunities
+## Contact
 
-- Freelance projects in product and business analytics
-- Dashboard development for business needs
-- Remote roles: **Product Analyst | Data Analyst**
-
----
-
-## 📬 Contact
-
-- 💬 Telegram: [@pompeedu](https://t.me/pompeedu)  
-- ✉️ Email: [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
-
----
-
-## 🌍 Language
-- 🇬🇧 [English](README_GB.md)
-- 🇷🇺 [Русский](README.md)
+- Telegram: https://t.me/pompeedu  
+- Email: firuzjonkurbonov735700@gmail.com
