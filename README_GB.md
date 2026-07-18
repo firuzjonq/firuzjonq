@@ -26,7 +26,7 @@ I analyze product and behavioral data to identify growth drivers, conversion bot
 ## Selected Projects
 
 ### 🧠 [E-commerce Funnel & Retention Analysis](https://github.com/pompeedu/ecommerce-funnel-retention-analysis)
-**Product analytics case (700M+ events)**
+**Product analytics case (400M+ events)**
 
 - Identified mismatch between DAU growth and revenue
 - Segmented users by lifecycle (0d, 1–7d, 8–30d, 31+d)
