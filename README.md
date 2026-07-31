@@ -1,6 +1,6 @@
 # Фирузджон Курбанов
 
-**Data / Product Analyst**
+**Data Analyst**
 
 Анализирую продуктовые и поведенческие данные, нахожу точки роста, узкие места в конверсии и превращаю данные в понятные бизнес-решения.
 
@@ -18,10 +18,9 @@
 ## Технологии и инструменты
 
 - SQL (PostgreSQL)
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy, Plotly, Streamlit)
 - Power BI
-- Plotly / Streamlit
-- Excel / Power Query
+- Excel, Power Query
 - Git
 
 
